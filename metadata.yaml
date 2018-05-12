@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35507'
     url: http://www.gutenberg.org/2009/agents/35507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31829#A-Translation-of-the-New-Testament-from-the-original-Greek--13-Humbly-Attempted-with-a-View-t_
 gutenberg_issued: '2010-03-30'
 gutenberg_type: Text
 identifiers:
