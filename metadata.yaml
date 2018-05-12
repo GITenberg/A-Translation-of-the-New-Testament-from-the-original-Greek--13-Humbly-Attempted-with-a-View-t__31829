@@ -1,0 +1,29 @@
+_repo: A-Translation-of-the-New-Testament-from-the-original-Greek--13-Humbly-Attempted-with-a-View-t__31829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haweis, Thomas
+    alias: Haweis, T. (Thomas)
+    birthdate: 1734
+    deathdate: 1820
+    gutenberg_agent_id: '35507'
+    url: http://www.gutenberg.org/2009/agents/35507
+description: ''
+gutenberg_issued: '2010-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament'
+- !lcc 'BS'
+title: "A Translation of the New Testament from the original Greek\r\nHumbly Attempted\
+  \ with a View to Assist the Unlearned with Clearer and More Explicit Views of the\
+  \ Mind of the Spirit in the Scriptures of Truth"
+url: http://www.gutenberg.org/ebooks/31829
